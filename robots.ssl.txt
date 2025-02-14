@@ -1,0 +1,45 @@
+
+
+    <text>
+        User-agent: *
+        Disallow: /aspnet_client/
+        Disallow: /bin/
+        Disallow: /config/
+        Disallow: /data/
+        Disallow: /macroScripts/
+        Disallow: /umbraco/
+        Disallow: /umbraco_client/
+        Disallow: /usercontrols/
+        Disallow: /xslt/
+            Disallow: /solutions-and-products/public-sector/
+            Disallow: /learn/events-and-webinars/qubits-uae-2024-september-20-by-invitation-only/
+            Disallow: /learn/events-and-webinars/qubits-silicon-valley-2024/
+            Disallow: /quantum-programming-101-on-demand-webinar/
+            Disallow: /quantum-programming-101-on-demand-webinar-1/
+            Disallow: /quantum-101-on-demand/
+            Disallow: /cto-on-demand-form/
+            Disallow: /cto-on-demand-form/quantum-and-the-cto-on-demand-webinar/
+            Disallow: /quantum-commercial-trends-ads/
+            Disallow: /quantum-cloud-services-built-for-financial-services/
+            Disallow: /quantum-cloud-services-built-for-manufacturing/
+            Disallow: /quantum-cloud-services-built-for-life-sciences/
+            Disallow: /quantum-cloud-services-built-for-business/
+            Disallow: /quantum-computing-for-medical-image-recontruction-on-demand-webinar/
+            Disallow: /quantum-in-production/real-world-quantum-examples/
+            Disallow: /quantum-computing-for-business-on-demand-webinar/
+            Disallow: /quantum-computing-for-business-on-demand-webinar/quantum-computing-for-business/
+            Disallow: /testing-form/
+            Disallow: /how-quantum-powered-logistics-management-is-changing-the-game/thank-you/
+            Disallow: /the-rise-of-quantum-computing-in-supply-chain-and-logistics-management-on-demand-webinar/
+            Disallow: /social-robust-exploration-and-growing-use-of-business-process-optimization-using-quantum-computing-1/
+            Disallow: /social-tracking-robust-exploration-and-growing-use-of-business-process-optimization-using-quantum-computing-1/
+            Disallow: /robust-exploration-and-growing-use-of-business-process-optimization-using-quantum-computing-ads/
+            Disallow: /quantum-optimization-the-key-to-operational-excellence-in-today-s-business-social/
+            Disallow: /quantum-optimization-the-key-to-operational-excellence-in-today-s-business-email/
+            Disallow: /quantum-optimization-the-key-to-operational-excellence-in-today-s-business-li/
+            Disallow: /quantum-optimization-the-key-to-operational-excellence-in-today-s-business-google/
+            Disallow: /marketing-notes-field-test/
+            Disallow: /quantum-launchpad/
+            Disallow: /qlp-test/
+        Sitemap: https://www.dwavesys.com/sitemap.xml
+    </text>
